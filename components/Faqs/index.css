@@ -1,0 +1,14 @@
+/* Write your code here. */
+.list-cont {
+  list-style: none;
+}
+.title1 {
+  text-align: center;
+  font-size: 40px;
+  color: #cb8805;
+}
+@media screen and (max-width: 768px) {
+  .title1 {
+    font-size: 20px;
+  }
+}
