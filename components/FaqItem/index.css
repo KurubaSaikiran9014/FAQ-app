@@ -1,0 +1,25 @@
+/* Write your code here. */
+.list-item {
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.up-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button {
+  height: 40px;
+  background-color: #ffffff;
+  border-width: 0px;
+}
+.title {
+  font-size: 20px;
+  color: #52606d;
+}
+.desc {
+  font-size: 15px;
+  color: #9aa5b1;
+}
